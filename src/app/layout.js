@@ -30,6 +30,11 @@ export const metadata = {
     title: "Gamepad Tester Online | Test Your Controller Free",
     description: "Instantly test your Xbox, PlayStation, or generic controller for stick drift and input issues right in your browser.",
   },
+  icons: {
+    icon: "/favicon.ico",
+    shortcut: "/favicon.ico",
+    apple: "/favicon.ico",
+  },
   other: {
     "google-adsense-account": "ca-pub-1434000394357253",
   },
